@@ -1,0 +1,9 @@
+{
+  "name": "ihf-featured-property-widget-api",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "qunit": "~1.20.0",
+    "jquery": "~1.8.3"
+  }
+}
