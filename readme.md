@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/binarystash/ihf-featured-property-widget-api.svg)](https://travis-ci.org/binarystash/ihf-featured-property-widget-api)
+
 # iHomefinder Featured Property Widget API
 
 This plugin returns an iHomefinder Featured Property Widget as a JSON object which is ideal for creating complex custom layouts. It also supports hotsheets.
@@ -82,5 +84,5 @@ In your web page:
 Tested on IE8; latest versions of Firefox and Chrome
 
 ##Support
-Report bugs at https://github.com/binarystash/jquery-ihf-featured-property-widget-api/issues.
+Report bugs at https://github.com/binarystash/ihf-featured-property-widget-api/issues.
 

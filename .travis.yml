@@ -8,4 +8,4 @@ before_install:
   - phantomjs --version
 before_script:
   - npm install -g grunt-cli
-  - npm install -g bower && bower install 
+  - npm install -g bower && bower install
