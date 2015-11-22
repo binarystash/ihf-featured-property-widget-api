@@ -84,5 +84,5 @@ In your web page:
 Tested on IE8; latest versions of Firefox and Chrome
 
 ##Support
-Report bugs at https://github.com/binarystash/ihf-featured-property-widget-api/issues.
+Report bugs at https://github.com/binarystash/jquery-ihf-featured-property-widget-api/issues.
 
