@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/binarystash/ihf-featured-property-widget-api.svg)](https://travis-ci.org/binarystash/ihf-featured-property-widget-api)
+[![Build Status](https://travis-ci.org/binarystash/jquery-ihf-featured-property-widget-api.svg)](https://travis-ci.org/binarystash/jquery-ihf-featured-property-widget-api)
 
 # iHomefinder Featured Property Widget API
 
