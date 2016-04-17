@@ -16,7 +16,7 @@
 				'alternativeUrl':''			//alternative url
 			 };
 			 
-			 settings = $.extend(options,defaults);
+			 settings = $.extend(defaults,options);
 			 
 			 loadData();
 			 

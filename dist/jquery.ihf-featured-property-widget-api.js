@@ -1,5 +1,5 @@
-/*! ihf-featured-property-widget-api - v1.0.0 - 2015-11-22
-* Copyright (c) 2015 BinaryStash; Licensed MIT */
+/*! ihf-featured-property-widget-api - v1.0.1 - 2016-04-17
+* Copyright (c) 2016 BinaryStash; Licensed MIT */
 (function ($) {
 	$.ihfFeaturedPropertyWidgetApi = function (options,callback) {
 
@@ -14,7 +14,7 @@
 				'alternativeUrl':''			//alternative url
 			 };
 			 
-			 settings = $.extend(options,defaults);
+			 settings = $.extend(defaults,options);
 			 
 			 loadData();
 			 
